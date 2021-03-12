@@ -1,0 +1,17 @@
+Searching an element in a sorted array
+
+#User function Template for python3
+
+class Solution:
+    ##Complete this function
+    def searchInSorted(self,arr, N, K):
+        #Your code here
+        for i in range(0,N):
+          if arr[i]==K:
+            # print(arr[i])  
+            return 1
+            break;
+        else: # else is matching for loop, not if condition
+            return -1
+            
+ 
