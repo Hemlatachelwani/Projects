@@ -27,3 +27,9 @@ Solution::
 Works fine with Logic App (Type == Consumption)
 
 127806-capture.jpg
+
+#######
+problem:
+https://learn.microsoft.com/en-us/answers/questions/828443/internal-server-error-while-invoking-a-functionapp
+when I was not able to do in standard logic app, i did it in consumption logic app. 
+For internal server error 
