@@ -36,3 +36,12 @@ For internal server error
 https://learn.microsoft.com/en-us/answers/questions/246658/internal-error-in-logic-app
 https://learn.microsoft.com/en-us/answers/questions/828443/internal-server-error-while-invoking-a-functionapp
 https://learn.microsoft.com/en-us/answers/questions/178612/azure-logic-app-internal-server-error-status-500
+
+
+######
+At first, i was not able to see the inputs , output and errors also 
+error-
+Inputs and outputs are not loading due to the CORS policy
+Add https://portal.azure.com to the allowed origins list in the API CORS settings
+Just added https://portal.azure.com in cors setting at left in logic app n i was able to see error. 
+Error message:
