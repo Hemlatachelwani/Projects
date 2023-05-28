@@ -33,3 +33,6 @@ problem:
 https://learn.microsoft.com/en-us/answers/questions/828443/internal-server-error-while-invoking-a-functionapp
 when I was not able to do in standard logic app, i did it in consumption logic app. 
 For internal server error 
+https://learn.microsoft.com/en-us/answers/questions/246658/internal-error-in-logic-app
+https://learn.microsoft.com/en-us/answers/questions/828443/internal-server-error-while-invoking-a-functionapp
+https://learn.microsoft.com/en-us/answers/questions/178612/azure-logic-app-internal-server-error-status-500
