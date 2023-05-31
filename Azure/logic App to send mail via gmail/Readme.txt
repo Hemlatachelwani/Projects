@@ -45,3 +45,8 @@ Inputs and outputs are not loading due to the CORS policy
 Add https://portal.azure.com to the allowed origins list in the API CORS settings
 Just added https://portal.azure.com in cors setting at left in logic app n i was able to see error. 
 Error message:
+
+###########
+error code : DomainNotLinked
+message: The specified sender domain has not been linked." azure communication
+https://stackoverflow.com/questions/75131928/azure-communication-service-email-sending-error
