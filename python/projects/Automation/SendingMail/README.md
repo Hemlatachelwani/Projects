@@ -1,6 +1,6 @@
 Setup
 
-when you will run the code, u will get the below error , then do the settings - choose the gmail account on which 2 step auth is enabled n pls dont confuse app password with other passwords. thr r lot of passwords. 
+when you will run the code, u will get the below error , then do the settings - choose the gmail account on which 2 step auth is enabled n pls dont confuse app password with other passwords. thr r lot of passwords.  use app password instead of ur gmail password w
 
 
 
