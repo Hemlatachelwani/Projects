@@ -2,7 +2,7 @@ Setup
 
 when you will run the code, u will get the below error , then do the settings - choose the gmail account on which 2 step auth is enabled n pls dont confuse app password with other passwords. thr r lot of passwords.  use app password instead of ur gmail password w
 
-
+smtplib.SMTPAuthenticationError: (535, b'5.7.8 Username and Password not accepted)
 
 Google has disabled the ability to enable less secure apps as of May 2022. Because of this, the previous solution of enabling less secure apps is no longer valid.
 
